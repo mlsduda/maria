@@ -3,7 +3,7 @@
     padding: 1em;
     }
     .container{
-    display: block;
+    display: flex;
     align-items: center;
     }
     .container imagem, .container frase{
